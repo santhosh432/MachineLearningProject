@@ -1,3 +1,3 @@
 # MachineLearningProject
 
-1 .  IRIS data Classifications using - Supervised Learning 
+1 .  IRIS data Classification algorithm using - Supervised Learning 
